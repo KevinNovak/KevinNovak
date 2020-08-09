@@ -1,1 +1,1 @@
-![KevinNovak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinNovak&show_icons=true)
+![KevinNovak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinNovak&count_private=true&hide=issues&show_icons=true)
